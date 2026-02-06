@@ -1,7 +1,5 @@
 ## Hello my fellow man 🤖
 
-I'm just starting my university journey and i'm ready to document my progress.
-
 <!--
 **Ry-gramming/ry-gramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
